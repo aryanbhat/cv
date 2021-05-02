@@ -10,7 +10,7 @@ body{
 hr{
     color: grey;
     border-style: dotted none none none;
-    border-width: 6px;
+    border-width: 8px;
     width: 6%;
     text-align: center;
 }
